@@ -1,0 +1,136 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Beach Paradise",
+      "location": "Maldives",
+      "image": "http://localhost:3001/images/beach_paradise.jpg",
+      "price": 1299.99,
+      "duration": "7D/6N",
+      "people": 2,
+      "description": "Enjoy the serene beaches and clear waters of the Maldives.",
+      "detailedDescription": "Escape to the pristine beaches of the Maldives and indulge in a luxurious getaway. Bask in the sun on white sandy beaches, swim in crystal-clear waters, and explore vibrant coral reefs. The Maldives offers a perfect blend of relaxation and adventure, with opportunities for snorkeling, diving, and water sports. Enjoy world-class accommodations, exquisite dining, and unforgettable sunsets. This tropical paradise is ideal for couples and honeymooners seeking a romantic retreat. Experience the ultimate island escape in one of the most beautiful destinations on earth."
+    },
+    {
+      "id": 2,
+      "title": "Mountain Adventure",
+      "location": "Swiss Alps",
+      "image": "http://localhost:3001/images/mountain_adventure.jpg",
+      "price": 1599.99,
+      "duration": "10D/9N",
+      "people": 4,
+      "description": "Explore the breathtaking views and thrilling adventures in the Swiss Alps.",
+      "detailedDescription": "Embark on an exhilarating adventure in the Swiss Alps, where stunning mountain scenery and thrilling activities await. Whether you're skiing down pristine slopes, hiking through picturesque trails, or enjoying a scenic train ride, the Swiss Alps offer something for everyone. Stay in charming alpine villages, savor delicious Swiss cuisine, and experience the rich culture and traditions of the region. This trip is perfect for families and adventure enthusiasts looking to immerse themselves in nature's beauty. Discover the magic of the Swiss Alps and create memories that will last a lifetime."
+    },
+    {
+      "id": 3,
+      "title": "City Lights",
+      "location": "New York City",
+      "image": "http://localhost:3001/images/city_lights.jpg",
+      "price": 899.99,
+      "duration": "5D/4N",
+      "people": 2,
+      "description": "Experience the vibrant life and iconic landmarks of New York City.",
+      "detailedDescription": "Dive into the hustle and bustle of New York City, a metropolis brimming with energy and iconic landmarks. From the bright lights of Times Square to the tranquility of Central Park, NYC offers a unique blend of excitement and relaxation. Visit world-renowned museums, dine at top-rated restaurants, and catch a Broadway show. Explore diverse neighborhoods, shop along Fifth Avenue, and take in breathtaking views from the Empire State Building. This city is a melting pot of cultures and experiences, making it a must-visit destination for travelers seeking endless possibilities."
+    },
+    {
+      "id": 4,
+      "title": "Safari Expedition",
+      "location": "Kenya",
+      "image": "http://localhost:3001/images/safari_expedition.jpg",
+      "price": 1799.99,
+      "duration": "8D/7N",
+      "people": 3,
+      "description": "Embark on an unforgettable safari adventure in the wilds of Kenya.",
+      "detailedDescription": "Journey into the heart of Kenya for an unforgettable safari expedition, where the wild and wonderful await. Witness the majestic 'Big Five' in their natural habitat, from elephants and lions to rhinos, leopards, and buffalo. Explore the vast savannahs, visit local Maasai villages, and experience the vibrant culture and traditions of Kenya. Stay in luxurious lodges and camps, enjoy guided game drives, and marvel at the breathtaking landscapes. This adventure is perfect for wildlife enthusiasts and those seeking a once-in-a-lifetime experience in one of Africa's premier safari destinations."
+    },
+    {
+      "id": 5,
+      "title": "Historic Europe",
+      "location": "Rome",
+      "image": "http://localhost:3001/images/historic_europe.jpg",
+      "price": 1099.99,
+      "duration": "6D/5N",
+      "people": 2,
+      "description": "Discover the rich history and stunning architecture of Rome.",
+      "detailedDescription": "Step back in time and explore the ancient wonders of Rome, a city steeped in history and culture. Visit iconic landmarks such as the Colosseum, the Roman Forum, and the Pantheon. Wander through charming piazzas, discover hidden gems, and indulge in authentic Italian cuisine. Take a tour of the Vatican, marvel at Michelangelo's masterpieces in the Sistine Chapel, and stroll along the historic streets. Rome offers a unique blend of the old and new, making it a perfect destination for history buffs and culture lovers. Experience the eternal city and its timeless charm."
+    },
+    {
+      "id": 6,
+      "title": "Tropical Getaway",
+      "location": "Hawaii",
+      "image": "http://localhost:3001/images/tropical_getaway.jpg",
+      "price": 1399.99,
+      "duration": "7D/6N",
+      "people": 2,
+      "description": "Relax and rejuvenate in the beautiful tropical paradise of Hawaii.",
+      "detailedDescription": "Escape to the tropical paradise of Hawaii, where lush landscapes and stunning beaches await. Enjoy the warm Hawaiian hospitality, explore volcanic craters, and swim in crystal-clear waters. Take a scenic helicopter tour, attend a traditional luau, and hike through lush rainforests. Whether you're surfing the waves of Waikiki or relaxing on the sandy shores of Maui, Hawaii offers something for everyone. This getaway is perfect for couples and families looking to relax and rejuvenate in a beautiful and serene setting. Experience the magic of the Hawaiian Islands and create unforgettable memories."
+    },
+    {
+      "id": 7,
+      "title": "Desert Oasis",
+      "location": "Dubai",
+      "image": "http://localhost:3001/images/desert_oasis.jpg",
+      "price": 1299.99,
+      "duration": "5D/4N",
+      "people": 2,
+      "description": "Experience the luxury and excitement of the desert city of Dubai.",
+      "detailedDescription": "Discover the dazzling city of Dubai, where luxury and adventure meet in the heart of the desert. Marvel at the towering skyscrapers, shop in world-class malls, and dine in gourmet restaurants. Take a desert safari, ride camels, and enjoy a traditional Bedouin camp experience. Visit iconic landmarks such as the Burj Khalifa, the Palm Jumeirah, and the Dubai Marina. Whether you're exploring the vibrant nightlife or relaxing in luxurious spas, Dubai offers a unique blend of modernity and tradition. This desert oasis is perfect for travelers seeking excitement and luxury."
+    },
+    {
+      "id": 8,
+      "title": "Cultural Journey",
+      "location": "Kyoto",
+      "image": "http://localhost:3001/images/cultural_journey.jpg",
+      "price": 1499.99,
+      "duration": "8D/7N",
+      "people": 2,
+      "description": "Immerse yourself in the rich cultural heritage of Kyoto, Japan.",
+      "detailedDescription": "Embark on a cultural journey to Kyoto, the ancient capital of Japan, known for its historic temples and traditional tea houses. Wander through bamboo groves, visit beautiful shrines, and participate in traditional tea ceremonies. Explore the charming streets of Gion, experience the beauty of cherry blossoms in spring, and enjoy the vibrant autumn foliage. Kyoto offers a glimpse into Japan's rich cultural heritage, with opportunities to learn about its history, art, and cuisine. This trip is perfect for culture enthusiasts and those seeking a serene and enriching experience."
+    },
+    {
+      "id": 9,
+      "title": "Rainforest Retreat",
+      "location": "Amazon",
+      "image": "http://localhost:3001/images/rainforest_retreat.jpg",
+      "price": 1699.99,
+      "duration": "9D/8N",
+      "people": 4,
+      "description": "Explore the biodiversity and beauty of the Amazon Rainforest.",
+      "detailedDescription": "Immerse yourself in the lush beauty and incredible biodiversity of the Amazon Rainforest. Stay in eco-lodges, embark on guided jungle tours, and discover the unique flora and fauna of this vast wilderness. Canoe along winding rivers, visit indigenous communities, and learn about the importance of rainforest conservation. The Amazon offers an unforgettable adventure for nature lovers and explorers. This retreat is perfect for families and groups looking to connect with nature and experience the wonders of one of the world's most vital ecosystems."
+    },
+    {
+      "id": 10,
+      "title": "Desert Adventure",
+      "location": "Morocco",
+      "image": "http://localhost:3001/images/desert_adventure.jpg",
+      "price": 1399.99,
+      "duration": "6D/5N",
+      "people": 2,
+      "description": "Experience the breathtaking landscapes and rich culture of Morocco.",
+      "detailedDescription": "Venture into the enchanting deserts of Morocco, where adventure and culture await. Ride camels across golden dunes, stay in traditional riads, and explore ancient medinas. Visit vibrant markets, taste exotic cuisine, and learn about Morocco's rich history and traditions. From the bustling streets of Marrakech to the serene beauty of the Sahara, Morocco offers a unique and captivating experience. This desert adventure is perfect for travelers seeking a blend of natural beauty and cultural richness. Discover the magic of Morocco and create lasting memories."
+    },
+    {
+      "id": 11,
+      "title": "Northern Lights",
+      "location": "Iceland",
+      "image": "http://localhost:3001/images/northern_lights.jpg",
+      "price": 1899.99,
+      "duration": "8D/7N",
+      "people": 2,
+      "description": "Witness the magical Northern Lights in the stunning landscapes of Iceland.",
+      "detailedDescription": "Experience the awe-inspiring beauty of the Northern Lights in Iceland, a land of fire and ice. Marvel at the spectacular auroras dancing across the night sky, and explore Iceland's stunning landscapes, including geysers, waterfalls, and volcanic craters. Relax in natural hot springs, take a scenic tour of the Golden Circle, and discover the unique culture and folklore of this enchanting island. Iceland offers a one-of-a-kind adventure for nature enthusiasts and those seeking to witness one of the world's most breathtaking natural phenomena."
+    },
+    {
+      "id": 12,
+      "title": "Tropical Islands",
+      "location": "Bora Bora",
+      "image": "http://localhost:3001/images/tropical_islands.jpg",
+      "price": 2499.99,
+      "duration": "10D/9N",
+      "people": 2,
+      "description": "Enjoy a luxurious stay on the picturesque islands of Bora Bora.",
+      "detailedDescription": "Escape to the paradise of Bora Bora, where crystal-clear waters, white sandy beaches, and overwater bungalows await. Enjoy a luxury stay in one of the world's most beautiful islands, with opportunities for snorkeling, diving, and relaxing under the tropical sun. Explore the stunning coral reefs, indulge in gourmet dining, and experience the island's rich Polynesian culture. Bora Bora is the ultimate destination for couples and honeymooners seeking romance and relaxation in a breathtaking setting. Immerse yourself in luxury and create unforgettable memories in this tropical haven."
+    }
+  ]
+}
